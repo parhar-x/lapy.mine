@@ -150,3 +150,12 @@ nav{
     }
 
 }
+@media screen and (max-width:480px){
+    header{
+        margin-top: 2vh;
+    }
+    .cta-select,
+    .cta-add{
+        margin: 5px;
+    }
+}
