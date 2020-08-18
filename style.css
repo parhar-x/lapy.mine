@@ -151,6 +151,9 @@ nav{
 
 }
 @media screen and (max-width:480px){
+       body{
+    margin: auto;
+    }
     header{
         margin-top: 2vh;
     }
